@@ -1,5 +1,3 @@
-<div align="center">
-<img width="640" height="34" alt="image" src="https://github.com/user-attachments/assets/2c277f66-ddb0-4256-9f72-f00a5194b41e" />
 
 
 <p align="center">
@@ -13,5 +11,3 @@
 
   $\texttt{\color{#e60000} "Don't leave me hanging here." }$
 
-<div align="center">
-<img width="640" height="34" alt="image" src="https://github.com/user-attachments/assets/2c277f66-ddb0-4256-9f72-f00a5194b41e" />
