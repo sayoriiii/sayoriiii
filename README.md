@@ -7,6 +7,7 @@
 </p>
 
 <div align="center">
+<img width="136" height="499" alt="image" src="https://github.com/user-attachments/assets/025a3ae1-bf42-4f64-ab68-6acca15dbc30" />
 
 
   $\texttt{\color{#e60000} "Don't leave me hanging here." }$
